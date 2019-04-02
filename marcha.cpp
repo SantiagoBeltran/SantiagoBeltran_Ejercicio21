@@ -12,7 +12,7 @@ int main(){
   pi=2*asin(1);  
   x=0;
   y=0;    
-  srand48(17);
+  srand48(23);
 
   for (i=0;i<1000;i++){  
     r = 2*pi*drand48();
